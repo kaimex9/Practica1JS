@@ -29,6 +29,10 @@ document.getElementsByName("play")[0].onclick = function () { //getElementsByNam
     }
 }
 
+document.getElementsByName("pause")[0].onclick = function() {
+    clearInterval(intervalo);
+}
+
 document.getElementsByName("reset")[0].onclick = function () {
     document.getElementsByName("minutes")[0].value = 0;
     document.getElementsByName("seconds")[0].value = 0;
