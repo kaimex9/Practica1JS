@@ -13,7 +13,7 @@ function creacionTabla() {
         </tr>
         <tr>
             <td>Altura interna de la finestra</td>
-            <td>`+ window.innerWidth + `</td>
+            <td>`+ window.innerHeight + `</td>
         </tr>
         <tr>
             <td>URL de la web</td>
