@@ -1,0 +1,17 @@
+.timmer4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.title4{
+    text-align: center;
+    width: 100%;
+}
+
+.inputs{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
