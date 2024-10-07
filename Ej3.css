@@ -1,18 +1,20 @@
 body{
-    background-color: rgb(159, 219, 247);
+    background-color: rgb(253, 173, 99);
 }
 
 .mainDiv3{
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 500px;
     flex-wrap: wrap;
+    margin: auto;
     margin-top: 150px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .title3{
-    width: 100%;
+    width: 500px;
     text-align: center;
 }
 
@@ -20,5 +22,5 @@ body{
     display: flex;
     text-align: center;
     width: 500px;
-    background-color: rgb(255, 165, 48);
+    background-color: rgb(244, 248, 28);
 }
